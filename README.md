@@ -1,4 +1,7 @@
 # Welcome to the Cohort 36 Class Website!
+
+View the deployed website at 
+
 ![image](./website.png)
 
 ### Meet Cohort 36!
@@ -27,8 +30,6 @@ We are Cohort 36.
 Contributors: Julian Garcia, Sam Pita, Lauren Riddle
 
 Class Logo Designed By: Guy Cherkesky
-
-View the deployed website at 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
