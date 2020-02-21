@@ -5,7 +5,7 @@
 
 View the deployed website at 
 
----?image=src/components/home/about_background.png
+
 ## About Us
 
 ### Meet Cohort 36!
