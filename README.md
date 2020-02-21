@@ -1,6 +1,6 @@
 # Welcome to the Cohort 36 Class Website!
 
-![image](./website.png)
+![image](./static/media/class_photo_gradient.723d6e1c.png)
 
 
 View the deployed website at https://nss-cohort-36.github.io/
