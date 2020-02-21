@@ -14,9 +14,9 @@ We are a diverse array of people from many different industries. Our work experi
 Six months ago, we set out to conquer ReactJS, JavaScript, Python, and Django. Throughout our journey, we laughed together, failed together, triumphed together, learned how to learn together, and we became family. We have grown not only as developers, but also as humans, realizing that the sky is the limit if you have determination and an endless thirst for learning. Now we are ready to channel our passion for software development into jobs where we can continue learning and making a difference.
 
 
-We are software developers.
+##### We are software developers.
 
-We are Cohort 36.
+#### We are Cohort 36.
 
 🌮🎾🎤🐒🐓
 
