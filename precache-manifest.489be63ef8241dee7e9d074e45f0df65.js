@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1687fd448a05cf05cf535d9137d6f774",
+    "revision": "f8959912ecce665195a3993468b3e819",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "4b5ed1771138c33a64d4",
+    "revision": "440589aabb0d5c4c7943",
     "url": "/static/css/main.9037985b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c7dfd80a.chunk.js"
   },
   {
-    "revision": "4b5ed1771138c33a64d4",
-    "url": "/static/js/main.5accb6b8.chunk.js"
+    "revision": "440589aabb0d5c4c7943",
+    "url": "/static/js/main.be2affa7.chunk.js"
   },
   {
     "revision": "6cb34a6bbe1e8268a0e8",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/christian_serious.4516d63b.png"
   },
   {
-    "revision": "f57a11f923f37974f0fe19346ec52115",
-    "url": "/static/media/class_photo_fun.f57a11f9.png"
+    "revision": "b935ae03743386aa8a862bd16cdac018",
+    "url": "/static/media/class_photo_fun.b935ae03.png"
   },
   {
-    "revision": "a8543e785aa82b43f271ebe5d28eb3fd",
-    "url": "/static/media/class_photo_gradient.a8543e78.png"
+    "revision": "a395bfa000ed43bc1e9ea9d96c476e22",
+    "url": "/static/media/class_photo_gradient.a395bfa0.png"
   },
   {
     "revision": "5799b3d5973790be50c545189abf32a6",
