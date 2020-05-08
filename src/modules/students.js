@@ -105,7 +105,7 @@ export default [
             "portfolio": "https://ajbyrd.github.io/adambyrd/",
             "proImg": "adam_serious.png",
             "funImg": "adam_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "AdamByrd-resume.pdf",
             "capstoneURL": "XDJJkwKScgU"
         },
@@ -372,7 +372,7 @@ export default [
             "portfolio": "https://erinepolley.github.io/",
             "proImg": "erin_serious.png",
             "funImg": "erin_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "ErinPolley-resume.pdf",
             "capstoneURL": "Hqw3zeqZ8vc"
         },
@@ -388,7 +388,7 @@ export default [
             "portfolio": "https://laurenriddle.github.io/laurenriddle/",
             "proImg": "lauren_serious.png",
             "funImg": "lauren_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "LaurenRiddle-resume.pdf",
             "capstoneURL": "YdQe-vRHBe8"
         },
