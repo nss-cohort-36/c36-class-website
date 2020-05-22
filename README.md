@@ -1,5 +1,5 @@
 # Welcome to the Cohort 36 Class Website!
-![image](./website.png)
+![image](./static/media/class_photo_gradient.a395bfa0.png)
 
 ### Meet Cohort 36!
 We are a diverse array of people from many different industries. Our work experience includes that of military veterans, writers, musicians, IT professionals, graphic designers, medics, food service professionals, salespeople, librarians, stay-at-home moms, and more. We come from different backgrounds, but we all have something in common. We are a passionate, hardworking, problem solving, meme making group of people who came together for the experience of a lifetime.
