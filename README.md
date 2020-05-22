@@ -22,10 +22,10 @@ We are Cohort 36.
 1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
 
 ## Reusage and Copyright
-If you wish to fork, download, or clone this repo for your own use, we ask that upon deployment you insert the following copyright at the bottom of the website: 
+If you wish to fork, download, or clone this repository for your own use, we ask that upon deployment you insert the following copyright at the bottom of the website: 
 _© 2020. Nashville Software School Day Cohort 36_
 
-We also ask that in the README.md of your project, please include this link and message directing back to the original repo:
+We also ask that in the README.md of your project, please include this link and message directing back to the original project:
 
 
     If you wish to fork, download, or clone this repository for your own use, you are required to put the following copyright at the bottom of the website upon deployment: 
