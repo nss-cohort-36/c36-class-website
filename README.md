@@ -26,8 +26,10 @@ If you wish to fork, download, or clone this repo for your own use, we ask that 
 _© 2020. Nashville Software School Day Cohort 36_
 
 We also ask that in the README.md of your project, please include this link and message directing back to the original repo:
-_If you wish to fork, download, or clone this repository for your own use, you are required to put the following copyright at the bottom of the website upon deployment: © 2020. Nashville Software School Day Cohort 36_
-_Original Repository: https://github.com/nss-cohort-36/nss-cohort-36.github.io)_
+_If you wish to fork, download, or clone this repository for your own use, you are required to put the following copyright at the bottom of the website upon deployment:_ 
+_© 2020. Nashville Software School Day Cohort 36_
+
+_Original Repository: https://github.com/nss-cohort-36/nss-cohort-36.github.io_
 
 For any questions regarding re-use of the site, contact the contributers listed below. 
 
