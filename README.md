@@ -30,7 +30,7 @@ We also ask that in the README.md of your project, please include this link and 
 
     If you wish to fork, download, or clone this repository for your own use, please include the following copyright at the bottom of the website upon deployment: 
     © 2020. Nashville Software School Day Cohort 36
-    React Template Adapted From: <a href="https://www.linkedin.com/in/julian-garcia/">Julian Garcia</a>, <a href="https://www.linkedin.com/in/samanthapita/">Sam Pita</a>, <a href="https://www.linkedin.com/in/lauren-riddle/">Lauren Riddle</a> from Cohort 36
+    React Template Adapted From: Julian Garcia, Sam Pita, and Lauren Riddle from Cohort 36
     Original Template Repository: https://github.com/nss-cohort-36/nss-cohort-36.github.io
 
 
