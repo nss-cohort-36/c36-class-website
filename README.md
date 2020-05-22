@@ -28,9 +28,10 @@ _© 2020. Nashville Software School Day Cohort 36_
 We also ask that in the README.md of your project, please include this link and message directing back to the original project:
 
 
-    If you wish to fork, download, or clone this repository for your own use, you are required to put the following copyright at the bottom of the website upon deployment: 
+    If you wish to fork, download, or clone this repository for your own use, please include the following copyright at the bottom of the website upon deployment: 
     © 2020. Nashville Software School Day Cohort 36
-    Original Repository: https://github.com/nss-cohort-36/nss-cohort-36.github.io
+    React Template Adapted From: <a href="https://www.linkedin.com/in/julian-garcia/">Julian Garcia</a>, <a href="https://www.linkedin.com/in/samanthapita/">Sam Pita</a>, <a href="https://www.linkedin.com/in/lauren-riddle/">Lauren Riddle</a> from Cohort 36
+    Original Template Repository: https://github.com/nss-cohort-36/nss-cohort-36.github.io
 
 
 
