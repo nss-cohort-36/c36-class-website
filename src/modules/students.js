@@ -57,7 +57,7 @@ export default [
             "portfolio": "",
             "proImg": "kenneth_serious.png",
             "funImg": "kenneth_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "KenBoyd-resume.pdf",
             "capstoneURL": "ZSl69af83pg"
         },
@@ -400,7 +400,7 @@ export default [
             "quoteAuthor": "-Viktor Frankl",
             "email": "melody@melodystern.com",
             "github": "http://www.github.com/melliemuse",
-            "linkedIn": "http://www.linkedin.com/melodystern",
+            "linkedIn": "https://www.linkedin.com/in/melodystern/",
             "portfolio": "",
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
