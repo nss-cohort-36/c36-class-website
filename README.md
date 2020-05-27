@@ -40,7 +40,7 @@ For any questions regarding re-use of the site, contact the contributers listed 
 ## Credits
 Contributors: <a href="https://www.linkedin.com/in/julian-garcia/">Julian Garcia</a>, <a href="https://www.linkedin.com/in/samanthapita/">Sam Pita</a>, <a href="https://www.linkedin.com/in/lauren-riddle/">Lauren Riddle</a> 
 
-Class Logo Designed By: Guy Cherkesky
+Class Logo Designed By: <a href="https://www.linkedin.com/in/cherkesky/">Guy Cherkesky</a>
 
 View the deployed website <a href="https://nss-cohort-36.github.io/">here</a>! 
 
