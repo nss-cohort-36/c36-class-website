@@ -278,7 +278,7 @@ export default [
             "portfolio": "https://stitchelle.github.io/Michelle_Johnson/",
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "MichelleJohnson-resume.pdf",
             "capstoneURL": "smL6prRZoNk"
         },
