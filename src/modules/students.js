@@ -199,7 +199,7 @@ export default [
             "portfolio": "https://chase-fite.github.io/",
             "proImg": "chase_serious.png",
             "funImg": "chase_serious.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "ChaseFite-resume.pdf",
             "capstoneURL": "ri4LpJwyqyY"
           },
