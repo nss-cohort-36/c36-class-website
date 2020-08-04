@@ -153,7 +153,7 @@ export default [
             "portfolio": "https://www.cherkesky.com",
             "proImg": "guy_serious.png",
             "funImg": "guy_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "GuyCherkesky-resume.pdf",
             "capstoneURL": "oG92MiNRykk"
         },
