@@ -294,7 +294,7 @@ export default [
             "portfolio": "https://johnandrewlong.com",
             "proImg": "john_serious.png",
             "funImg": "john_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JohnLong-resume.pdf",
             "capstoneURL": "D2dnW3m7XRI"
         },
