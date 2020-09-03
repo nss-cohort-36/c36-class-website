@@ -183,7 +183,7 @@ export default [
             "portfolio": "https://rhc822.github.io/",
             "proImg": "ryan_cunningham_serious.png",
             "funImg": "ryan_cunningham_serious.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "RyanCunningham-resume.pdf",
             "capstoneURL": "8gSbEki88Qo"
         },
