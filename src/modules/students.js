@@ -89,7 +89,7 @@ export default [
             "portfolio": "https://manilabui.com/",
             "proImg": "manila_serious.png",
             "funImg": "manila_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "ManilaBui-resume.pdf",
             "capstoneURL": "kLW4DvbuWp4"
         },
@@ -420,7 +420,7 @@ export default [
             "portfolio": "https://treysuiter.github.io/",
             "proImg": "trey_serious.png",
             "funImg": "trey_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "TreySuiter-resume.pdf",
             "capstoneURL": "th8wHFc4GZo"
         },
