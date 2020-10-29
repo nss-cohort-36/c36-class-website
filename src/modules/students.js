@@ -247,7 +247,7 @@ export default [
             "portfolio": "",
             "proImg": "sophia_serious.png",
             "funImg": "sophia_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "SophiaHoffman-resume.pdf"
         },
         {
