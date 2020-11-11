@@ -262,7 +262,7 @@ export default [
             "portfolio": "http://cpjackson777.github.io/",
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "CharlesJackson-resume.pdf",
             "capstoneURL": "xwceyhyTRq0"
         },
