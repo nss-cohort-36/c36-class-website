@@ -41,7 +41,7 @@ export default [
             "portfolio": "https://cassieboyd.github.io/",
             "proImg": "cassandra_serious.png",
             "funImg": "cassandra_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "CassieBoyd-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
