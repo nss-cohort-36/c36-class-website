@@ -404,7 +404,7 @@ export default [
             "portfolio": "",
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "MelodyStern-resume.pdf",
             "capstoneURL": "8XJ80SfFaN0"
         },
