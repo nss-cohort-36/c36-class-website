@@ -137,7 +137,7 @@ export default [
             "portfolio": "",
             "proImg": "shawna_serious.png",
             "funImg": "shawna_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "ShawnaChatfield-resume.pdf",
             "capstoneURL": "xlgCh2PP5dc"
         },
