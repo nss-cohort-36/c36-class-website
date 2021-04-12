@@ -215,7 +215,7 @@ export default [
             "portfolio": "",
             "proImg": "julian_serious.png",
             "funImg": "julian_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JulianGarcia-resume.pdf",
             "capstoneURL": "Yrkd01jP5xU"
         },
@@ -342,7 +342,7 @@ export default [
             "portfolio": "",
             "proImg": "christian_serious.png",
             "funImg": "christian_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "ChristianPippin-resume.pdf",
             "capstoneURL": "Q4fHmncsJUY"
         },
