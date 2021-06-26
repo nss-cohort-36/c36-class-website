@@ -121,7 +121,7 @@ export default [
             "portfolio": "https://chapmanjamesg.github.io/",
             "proImg": "james_serious.png",
             "funImg": "james_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JamesChapman-resume.pdf",
             "capstoneURL": "t8jQHk6kmGM"
         },
